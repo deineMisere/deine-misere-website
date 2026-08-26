@@ -1,0 +1,37 @@
+{
+  "siteTitle": "deine Misere!",
+  "metaDescription": "deine Misere! – Deutschpunk x Post-Punk aus Bielefeld / Bochum.",
+  "bandName": "deine Misere!",
+  "aboutTitle": "Über uns",
+  "aboutText": "deine Misere! aus Bielefeld und Bochum bewegen sich stilistisch irgendwo zwischen Deutschpunk und Postpunk. Zweifelnde, anklagende und wütende Texte über die Zerrissenheit zwischen gesellschaftlichen und persönlichen Miseren mischen sich mit eingängigen Klängen.",
+  "videoTitle": "Musikvideo",
+  "videoUrl": "https://www.youtube.com/embed/UkONDYfIMjo",
+  "downloadsTitle": "Downloads",
+  "photos": [],
+  "musicReleases": [
+    {
+      "title": "Das muss reichen als Happy End",
+      "year": "2026",
+      "url": "https://open.spotify.com/intl-de/artist/2GB6QXJjsHVdy8GJgiNdNW",
+      "cover": ""
+    },
+    {
+      "title": "Gegenwart, du alte Sau",
+      "year": "2026",
+      "url": "https://open.spotify.com/intl-de/artist/2GB6QXJjsHVdy8GJgiNdNW",
+      "cover": ""
+    },
+    {
+      "title": "Tauber Daumen",
+      "year": "2026",
+      "url": "https://open.spotify.com/intl-de/artist/2GB6QXJjsHVdy8GJgiNdNW",
+      "cover": ""
+    },
+    {
+      "title": "Schmutzspur",
+      "year": "2023",
+      "url": "https://deinemisere.bandcamp.com/album/schmutzspur",
+      "cover": ""
+    }
+  ]
+}
