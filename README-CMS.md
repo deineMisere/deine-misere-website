@@ -19,3 +19,5 @@ Zusätzlich zeigt die Musik-Sektion eine Spotify-Einbindung der Band, über die 
 Unter **Fotos / Impressionen** können JPG-, PNG- oder WebP-Dateien hochgeladen und mit einer Bildunterschrift versehen werden. Die Bilder werden unter `assets/photos/` gespeichert.
 
 Wichtig: Der Bandname wird im CMS und auf der Website fest auf **deine Misere!** normalisiert.
+
+Website-Deployment wird vorbereitet.
