@@ -33,5 +33,60 @@
       "url": "https://deinemisere.bandcamp.com/album/schmutzspur",
       "cover": ""
     }
-  ]
+  ],
+  "heroImage": "assets/bandfoto.jpg",
+  "logoImage": "assets/logo-white-opaque.png",
+  "downloads": [
+    {
+      "title": "Pressetext",
+      "type": "PDF",
+      "path": "assets/pressetext.pdf"
+    },
+    {
+      "title": "Techrider",
+      "type": "PDF",
+      "path": "assets/techrider.pdf"
+    },
+    {
+      "title": "Bandfoto",
+      "type": "JPG",
+      "path": "assets/bandfoto.jpg"
+    },
+    {
+      "title": "Logo",
+      "type": "PNG",
+      "path": "assets/logo-white-opaque.png"
+    }
+  ],
+  "concerts": [
+    {
+      "date": "26.09.26",
+      "city": "Herford",
+      "place": "SZ FlaFla",
+      "url": ""
+    },
+    {
+      "date": "31.10.26",
+      "city": "Harsewinkel",
+      "place": "",
+      "url": ""
+    },
+    {
+      "date": "12.12.26",
+      "city": "Bielefeld",
+      "place": "JZ Kamp",
+      "url": ""
+    }
+  ],
+  "impressum": {
+    "name": "",
+    "address": "",
+    "email": "deinemisere@web.de",
+    "phone": "",
+    "responsible": "",
+    "vatId": "",
+    "register": "",
+    "additional": ""
+  },
+  "links": []
 }
