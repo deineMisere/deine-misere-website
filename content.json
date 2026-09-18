@@ -89,11 +89,6 @@
   "logoImage": "assets/logo-white-opaque.png",
   "downloads": [
     {
-      "title": "Pressetext",
-      "type": "PDF",
-      "path": "assets/pressetext.pdf"
-    },
-    {
       "title": "Techrider",
       "type": "PDF",
       "path": "assets/techrider.pdf"
