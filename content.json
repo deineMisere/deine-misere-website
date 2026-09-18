@@ -79,14 +79,39 @@
     }
   ],
   "impressum": {
-    "name": "deine Misere!",
-    "address": "Weststraße 68, 33615 Bielefeld",
+    "name": "",
+    "address": "",
     "email": "deinemisere@web.de",
     "phone": "",
-    "responsible": "Adrian Lang",
+    "responsible": "",
     "vatId": "",
     "register": "",
     "additional": ""
   },
-  "links": []
+  "links": [
+    {
+      "title": "Spotify",
+      "url": "https://open.spotify.com/intl-de/artist/2GB6QXJjsHVdy8GJgiNdNW"
+    },
+    {
+      "title": "Bandcamp",
+      "url": "https://deinemisere.bandcamp.com/album/das-muss-reichen-als-happy-end"
+    },
+    {
+      "title": "Instagram",
+      "url": "https://www.instagram.com/deinemisere/?hl=de"
+    },
+    {
+      "title": "Facebook",
+      "url": "https://www.facebook.com/deineMisere/?locale=de_DE"
+    },
+    {
+      "title": "Apple Music",
+      "url": "https://music.apple.com/sk/artist/deine-misere/1707937175"
+    },
+    {
+      "title": "YouTube",
+      "url": "https://www.youtube.com/watch?v=UkONDYfIMjo&list=RDUkONDYfIMjo&start_radio=1"
+    }
+  ]
 }
