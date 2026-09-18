@@ -7,7 +7,13 @@
   "videoTitle": "Musikvideo",
   "videoUrl": "https://www.youtube.com/embed/UkONDYfIMjo",
   "downloadsTitle": "Downloads",
-  "photos": [],
+  "photos": [
+    {
+      "url": "assets/photos/1789760467450-_dsc0645_original.jpeg",
+      "caption": "",
+      "alt": "Impression von deine Misere!"
+    }
+  ],
   "musicReleases": [
     {
       "title": "Das muss reichen als Happy End",
