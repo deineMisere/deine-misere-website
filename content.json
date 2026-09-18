@@ -107,6 +107,11 @@
       "title": "Logo",
       "type": "PNG",
       "path": "assets/logo-white-opaque.png"
+    },
+    {
+      "title": "Pressetext neu",
+      "type": "PDF",
+      "path": "assets/downloads/1789760668189-deine-misere-pressetext.pdf"
     }
   ],
   "concerts": [
